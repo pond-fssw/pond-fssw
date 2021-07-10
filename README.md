@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pond-fssw
+- 👋 Hi, I’m @pond-fssw.
 - 👀 I’m interested in Frore Systems.
 - 🌱 I’m currently learning Frore Systems.
 - 💞️ I’m looking to collaborate on Frore Systems.
